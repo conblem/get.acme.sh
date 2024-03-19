@@ -5,7 +5,7 @@
 Install https://github.com/Neilpang/acme.sh
 
 ```
-curl https://get.acme.sh | sh -s email=my@example.com
+curl https://raw.githubusercontent.com/conblem/get.acme.sh/master/index.html | sh -s email=my@example.com
 
 ```
 
